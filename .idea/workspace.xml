@@ -2,19 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9df81e57-81ed-4d3a-a42f-e3384ef5cd43" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/henrikTest/henrikTest/Greeting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/henrikTest/henrikTest/GreetingController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/henrikPackage/MyClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/henrikPackage/Program.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/henrikPackage/Utils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/henrikTest/henrikTest/HenrikTestApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/henrikTest/henrikTest/HenrikTestApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/henrikTest/henrikTest/SpringBootTomcatApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/henrikTest/henrikTest/TomcatController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/henrikTest/henrikTest/Greeting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/henrikTest/henrikTest/Greeting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/henrikTest/henrikTest/GreetingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/henrikTest/henrikTest/GreetingController.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
