@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
 
 @SpringBootApplication
-public class HenrikTestApplication extends SpringBootServletInitializer {
+public class HenrikTestApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(HenrikTestApplication.class, args);
