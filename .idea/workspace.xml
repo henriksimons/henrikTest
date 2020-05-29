@@ -2,36 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9df81e57-81ed-4d3a-a42f-e3384ef5cd43" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/henrikTest/henrikTest/ApplicationConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/henrikTest/henrikTest/ApplicationInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/henrikTest/henrikTest/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/henrikTest/henrikTest/HenrikTestApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/henrikTest/henrikTest/Response.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/henrikTest/henrikTest/TomcatController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/henrikTest/henrikTest/UserRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/henrikTest/henrikTest/HenrikTestApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/henrikPackage/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/henrikPackage/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/henrikPackage/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/henrikTest/henrikTest/SpringBootTomcatApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/henrikPackage/Program.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/henrikPackage/Utils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/henrikPackage/Program.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/henrikPackage/Utils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/henrikTest-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/henrikTest-1.0-SNAPSHOT.jar.original" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +27,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>

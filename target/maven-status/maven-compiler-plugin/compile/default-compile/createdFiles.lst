@@ -1,7 +1,6 @@
-henrikTest\henrikTest\ApplicationConfiguration.class
+henrikTest\henrikTest\SpringBootTomcatApplication.class
+henrikPackage\Program.class
+henrikPackage\MyClass.class
 henrikTest\henrikTest\TomcatController.class
-henrikTest\henrikTest\ApplicationInitializer.class
 henrikTest\henrikTest\HenrikTestApplication.class
-henrikTest\henrikTest\Controller.class
-henrikTest\henrikTest\Response.class
-henrikTest\henrikTest\UserRequest.class
+henrikPackage\Utils.class
