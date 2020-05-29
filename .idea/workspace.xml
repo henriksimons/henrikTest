@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9df81e57-81ed-4d3a-a42f-e3384ef5cd43" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/henrikTest/henrikTest/GreetingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/henrikTest/henrikTest/GreetingController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/henrikTest/henrikTest/HenrikTestApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/henrikTest/henrikTest/HenrikTestApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/public/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -117,7 +116,13 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1590781230123</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="minor fix">
+      <created>1590782662230</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1590782662230</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -136,6 +141,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Added html" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added html" />
+    <MESSAGE value="minor fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="minor fix" />
   </component>
 </project>
