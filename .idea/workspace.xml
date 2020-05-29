@@ -2,13 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9df81e57-81ed-4d3a-a42f-e3384ef5cd43" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/henrikPackage/MyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/henrikPackage/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/henrikPackage/Utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/henrikTest/henrikTest/SpringBootTomcatApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/henrikTest/henrikTest/Greeting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/henrikTest/henrikTest/GreetingController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/henrikPackage/MyClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/henrikPackage/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/henrikPackage/Utils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/henrikTest/henrikTest/HenrikTestApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/henrikTest/henrikTest/HenrikTestApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/henrikTest/henrikTest/SpringBootTomcatApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/henrikTest/henrikTest/TomcatController.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
@@ -26,8 +29,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -46,6 +49,11 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="henrikTest.henrikTest" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -58,18 +66,44 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Maven.henrikTest [spring-boot:run]">
     <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="henrikPackage.Program" />
+      <option name="MAIN_CLASS_NAME" value="henrikTest.henrikTest.Program" />
       <module name="henrikTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="henrikTest [spring-boot:run]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="spring-boot:run" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Maven.henrikTest [spring-boot:run]" />
         <item itemvalue="Application.Program" />
       </list>
     </recent_temporary>

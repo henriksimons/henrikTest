@@ -1,6 +1,3 @@
-henrikTest\henrikTest\SpringBootTomcatApplication.class
-henrikPackage\Program.class
-henrikPackage\MyClass.class
-henrikTest\henrikTest\TomcatController.class
 henrikTest\henrikTest\HenrikTestApplication.class
-henrikPackage\Utils.class
+henrikTest\henrikTest\GreetingController.class
+henrikTest\henrikTest\Greeting.class
