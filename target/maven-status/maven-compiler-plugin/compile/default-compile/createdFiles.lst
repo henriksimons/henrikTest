@@ -1,2 +1,7 @@
-henrikPackage\Program.class
-henrikPackage\Utils.class
+henrikTest\henrikTest\ApplicationConfiguration.class
+henrikTest\henrikTest\TomcatController.class
+henrikTest\henrikTest\ApplicationInitializer.class
+henrikTest\henrikTest\HenrikTestApplication.class
+henrikTest\henrikTest\Controller.class
+henrikTest\henrikTest\Response.class
+henrikTest\henrikTest\UserRequest.class
