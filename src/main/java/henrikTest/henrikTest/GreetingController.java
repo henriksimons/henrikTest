@@ -11,7 +11,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class GreetingController extends SpringBootServletInitializer{
 
     private static final String template = "Hej, %s!";
-    private final AtomicLong counter = new AtomicLong();
 
     @GetMapping("/greeting")
     public Greeting greeting(@RequestParam(value = "name", defaultValue = "FÖLJ @DAGENSFOLKISKAFFE PÅ INSTAGRAM") String name) {
